@@ -1,0 +1,75 @@
+aid: carbonchain
+name: CarbonChain
+description: >-
+  CarbonChain is a London- and New York-based carbon accounting platform
+  founded in 2019 that is purpose-built for the highest-emitting, hardest-to-
+  track commodity supply chains — metals and mining, energy, manufacturing,
+  and agriculture. Its AI-assisted platform builds asset- and transaction-
+  level emissions pictures using activity-based emission factors, and
+  packages those calculations into modules for supply-chain emissions,
+  corporate carbon footprints (Scope 1, 2, 3), product carbon footprints,
+  scenario analysis, and regulatory compliance. The flagship CarbonChain
+  Comply release ships a Carbon Reporting Hub aligned with EU CSRD, UK
+  SECR, US SEC, and CDP, along with EU/UK CBAM declaration validation,
+  automated CBAM XML generation, and a Supplier Engagement Module for
+  collecting and validating supplier emissions data. CarbonChain Connect
+  links producers and importers through shared installation-level CBAM
+  infrastructure. The company is a CDP Accredited Provider (2024), is ISO
+  27001 certified, and is backed by Y Combinator, Union Square Ventures,
+  Voyager VC, and Aera VC, with $10M Series A funding (2023). CarbonChain
+  serves manufacturers, commodity traders, banks, and procurement teams,
+  and offers system-to-system API integration for delivering activity data
+  in and pulling gold-standard emissions calculations out — but it does
+  not publish a public developer portal, OpenAPI specification, SDK, or
+  open-source client library. API access is offered as part of customer
+  integration projects rather than as a self-serve developer surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Carbon Accounting
+  - Emissions Tracking
+  - Supply Chain
+  - Heavy Industry
+  - Commodities
+  - Metals And Mining
+  - Manufacturing
+  - CBAM
+  - Scope 3 Emissions
+  - Product Carbon Footprint
+  - Sustainability
+  - ESG
+  - Climate
+  - Regulatory Compliance
+  - CSRD
+  - CDP
+url: https://raw.githubusercontent.com/api-evangelist/carbonchain/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.carbonchain.com
+  - type: Platform
+    url: https://platform.carbonchain.io
+  - type: About
+    url: https://www.carbonchain.com/about
+  - type: Measure
+    url: https://www.carbonchain.com/measure
+  - type: Comply
+    url: https://www.carbonchain.com/product-releases/carbonchain-comply
+  - type: ProcurementSolution
+    url: https://www.carbonchain.com/solutions/carbonchain-for-procurement
+  - type: CostReductionSolution
+    url: https://www.carbonchain.com/solutions/cost-reduction
+  - type: Blog
+    url: https://www.carbonchain.com/blog
+  - type: GitHub
+    url: https://github.com/CarbonChain
+  - type: LinkedIn
+    url: https://uk.linkedin.com/company/carbonchain-io
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
