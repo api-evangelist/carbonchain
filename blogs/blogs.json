@@ -3,19 +3,13 @@
   "feeds": [
     {
       "source": "https://www.carbonchain.com/blog",
-      "feed_url": "https://www.carbonchain.com/blog",
-      "title": "",
+      "feed_url": "",
       "saved": 0,
-      "method": "none"
-    },
-    {
-      "source": "https://www.carbonchain.com/solutions/cost-reduction",
-      "feed_url": "https://www.carbonchain.com/solutions/cost-reduction",
-      "title": "",
-      "saved": 0,
-      "method": "none"
+      "method": "agent-scrape",
+      "error": "no publish dates determinable on listing"
     }
   ],
   "post_count": 0,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:30:46Z",
+  "agent_pulled": "2026-06-27"
 }
