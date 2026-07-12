@@ -50,6 +50,10 @@ modified: '2026-05-25'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: TrustCenter
+    url: security/carbonchain-trust-center.yml
+  - type: DomainSecurity
+    url: security/carbonchain-domain-security.yml
   - type: Website
     url: https://www.carbonchain.com
   - type: Platform
